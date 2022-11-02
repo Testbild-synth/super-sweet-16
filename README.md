@@ -1,4 +1,4 @@
-# "Super Sweet 16" 16-step knob-per-function sequencer Module for eurorack
+# "Super Sweet 16" 16 Step Knob-per-function Sequencer Module for Eurorack
 For a while now I've been looking for a through hole diy eurorack sequencer that is as hands-on as the Baby8 but with comfort features 
 you would maybe not have with an analog/cmos design. The outcome of my struggle is this module. It is a 16-step sequencer with the following functions:
 - variable sequence length up to 16 steps
