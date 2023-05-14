@@ -11,5 +11,5 @@ you would maybe not have with an analog/cmos design. The outcome of my struggle 
 - Slide pot with CV input for held steps
 - Internal clock
 
-## Status - Second revision comfirmed working!
+## Status - Second revision comfirmed working! code needs a bit of cleanup and I need to upload a youtube explaining the use
 
