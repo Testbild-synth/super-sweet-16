@@ -4,8 +4,12 @@ you would maybe not have with an analog/cmos design. The outcome of my struggle 
 - variable sequence length up to 16 steps
 - Cascading (meaning you can connect multiple to get 32/48/etc steps)
 - Builtin quantizer with multiple scales (off, chromatic, major, minor, blues, pentatonic)
-- Holding or pausing notes
-- 2 x Gate and CV out
+- 1-5 octave selectable range
+- Holding or pausing notes for each steps
+- 2 x Gate and 2x CV out
 - splittable (meaning you can have 2 channels for sequence lengths lower than 8)
+- Slide pot with CV input for held steps
+- Internal clock
 
-## Status - First revision comfirmed working, second revision has some improvements but not explicitly tested, software almost done (cascading is not implemented yet)
+## Status - Second revision comfirmed working!
+
