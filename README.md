@@ -14,7 +14,7 @@ you would maybe not have with an analog/cmos design. The outcome of my struggle 
 ## Status - Second revision comfirmed working! code and BOM needs a bit of cleanup and I need to upload a youtube explaining the use
 
 ## Hardware and build
-<img src="images/panel.png" width="30%" height="30%"><img src="images/circuit.png" width="30%" height="30%">
+<img src="images/panel.png" width="35%" height="35%"><img src="images/circuit.png" width="38%" height="38%">
 
 I really wanted this to go on one pcb and while its a bit cramped, it works and I think the build is still doable. 
 the panel is 19hp, which is kind of a weird size. If people message me about it I might change it to 20 so that there's a bit more space between knobs but for now I'm fine like this.
