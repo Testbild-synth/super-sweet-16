@@ -11,7 +11,7 @@ you would maybe not have with an analog/cmos design. The outcome of my struggle 
 - Slide pot with CV input for held steps
 - Internal clock
 
-## Status - Second revision comfirmed working! code and BOM needs a bit of cleanup and I need to upload a youtube explaining the use
+## Status - Second revision comfirmed working! code and BOM needs a bit of cleanup and I need to upload a youtube explaining the use. Also has a version with the SMD package of the MCP4728 now but that one is not tested!
 
 ## Hardware and build
 <img src="images/panel.png" width="35%" height="35%"><img src="images/circuit.png" width="38%" height="38%">
@@ -22,7 +22,7 @@ the panel is 19hp, which is kind of a weird size. If people message me about it 
 you need three ICs: 
 - An arduino nano v3, 
 - a 4067 mux breakout board (like [this](https://www.ebay.de/itm/273816945682), there's a bunch of these any that has this form factor will do.
-- A 4728 dac breakout board (slim form factor, like like [this](https://www.play-zone.ch/de/gy-mcp4728-breakout-quad-i2c-dac-mit-eeprom.html). I wanted through hole only and I had a bunch lying around. If these are hard to source tell me and I will make an smd chip version or use another breakout board (open to suggestions here).
+- A 4728 dac breakout board (slim form factor, like like [this](https://www.play-zone.ch/de/gy-mcp4728-breakout-quad-i2c-dac-mit-eeprom.html). I wanted through hole only and I had a bunch lying around. If these are hard to source for you, look at the smd_dac versions of the circuitboard (should work but have not been verified yet!).
 
 For the build, I would suggest you go in the following order:
 1. diodes
