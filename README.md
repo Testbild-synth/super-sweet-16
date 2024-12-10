@@ -10,6 +10,7 @@ you would maybe not have with an analog/cmos design. The outcome of my struggle 
 - splittable (meaning you can have 2 channels for sequence lengths lower than 8)
 - Slide pot with CV input for held steps
 - Internal clock
+- Runs Forwards, backwards and randomly selected steps
 
 ## Status - Second revision comfirmed working! code and BOM needs a bit of cleanup and I need to upload a youtube explaining the use. Also has a version with the SMD package of the MCP4728 now but that one is not tested!
 
@@ -67,4 +68,4 @@ Menu:
 - pressing "STEP" button for a short amount of time turns internal clock on and off. CV leds will blink twice quickly to indicate that the clock is switched on/off.
 - holdling "STEP" button for more than a second allows you to change internal clock frequency with the "ORDER" pot. and LED will blink indicating the clock speed.
 - turning "SLIDE" pot will change sequence length from 2 to 16. Sequences under 8 automatically enable different values for both channels. LEDs indicate new step length
-- turning "SCALE" pot will change maximum output voltage between 0 and 5 volts. this will limit the octaves you want to use but allows more detailed tuning in for step values
+- turning "SCALE" pot will change maximum output voltage between 1 and 5 volts. this will limit the octaves you want to use but allows more detailed tuning in for step values
