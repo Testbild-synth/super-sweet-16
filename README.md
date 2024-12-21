@@ -38,6 +38,9 @@ you can order the pcbs as is with the gerbers provided from any pcb service, I u
 ## Software
 
 code subfolder contains finished arduino sketch. 
+
+for your arduino to compile and upload properly you need the adafruit_4728 library and the Analog-digital-multiplexers library (https://docs.arduino.cc/libraries/analog-digital-multiplexers/).
+
 To make 16 channels and per-step switches work with an arduino nano and one mux on one pcb, I had to cut a few corners.
 The result is that if you have cold solder joints or some contacts are not soldered perfectly you might have a bit of MUX crosstalk (meaning that the frequency at which the mux is switched is so high that there is leftover charge from the last reading).
 To check, do the following:
