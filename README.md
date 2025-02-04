@@ -12,7 +12,7 @@ you would maybe not have with an analog/cmos design. The outcome of my struggle 
 - Internal clock
 - Runs Forwards, backwards and randomly selected steps
 
-## Status - Second revision comfirmed working! code and BOM needs a bit of cleanup and I need to upload a youtube explaining the use. Also has a version with the SMD package of the MCP4728 now but that one is not tested!
+## Status - Second revision comfirmed working! code needs a bit of cleanup and I need to upload a youtube explaining the use. Also has a version with the SMD package of the MCP4728 now but that one is not tested!
 
 ## Hardware and build
 <img src="images/panel.png" width="35%" height="35%"><img src="images/circuit.png" width="38%" height="38%">
