@@ -19,5 +19,5 @@
 29,100R,R40,1,,
 30,SPDT,"S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S12,S13,S14,S15,S16",16,On off on toggle switch MST103-style. Like these,https://de.aliexpress.com/item/1005006881432519.html
 31,ARDUINO_NANO V3,U1,1,It’s an arduino,
-32,"STEP, SET_STEP","U2, U3",2,pushbutton 6x6mm. Not sure either what switch and cap to use but these will do I guess,https://de.aliexpress.com/item/1005005193835619.html?spm=a2g0o.productlist.main.7.34dc5af9Ws4xk2&algo_pvid=2cff9a13-a76f-4ff0-b209-4702f9521097&algo_exp_id=2cff9a13-a76f-4ff0-b209-4702f9521097-6&pdp_npi=4%40dis%21EUR%210.87%210.78%21%21%210.88%210.79%21%40211b431017386929037673453e37c8%2112000032074410210%21sea%21DE%210%21ABX&curPageLogUid=zaLTkNw5EKpe&utparam-url=scene%3Asearch%7Cquery_from%3A
+32,"STEP, SET_STEP","U2, U3",2,pushbutton 6x6mm. Not sure either what switch and cap to use but these will do I guess,either https://de.aliexpress.com/item/1005005193835619.html or https://www.digikey.de/de/products/detail/cit-relay-and-switch/CT1102S2-8F160/16607856 and these caps https://www.digikey.de/de/products/detail/e-switch/1RWHT/271578
 34,7805,U4,1,7805 voltage regulator,
