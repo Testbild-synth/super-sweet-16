@@ -5,7 +5,7 @@
 4,Thonkiconn jack,"J1-J3, J5-J13",12,thonkiconn jack. Either spend tons of money or just go to aliexpress,"https://de.aliexpress.com/item/1005004890166167.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.3.1b78uFzOuFzONm&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=82122f5d-3e49-4a68-889b-4a7eb32134ea&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:82122f5d-3e49-4a68-889b-4a7eb32134ea,tpp_buckets:668%232846%238110%231995&pdp_npi=4%40dis%21EUR%2119.19%2119.19%21%21%2119.35%2119.35%21%40211b807017386930169593026e2fda%2112000030907522034%21rec%21DE%21699027728%21X&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A"
 7,MCP4728,J4,1,MCP4728 module. Link: ,https://de.aliexpress.com/item/1005007635284632.html
 17,LED,LED1-LED20,20,Any 3mm through hole led will do.,
-18,linear 10-100k Ohm (whichever you want),"P1-P16,SCALE,SEQ,SLIDE_AMT",19,RV09 potentiometer B10k/B50k/B100k. I use these:,https://de.aliexpress.com/item/1005003276146441.html
+18,linear Pot 10-100k Ohm (whichever you want),"P1-P16,SCALE,SEQ,SLIDE_AMT",19,RV09 potentiometer B10k/B50k/B100k. I use these:,https://de.aliexpress.com/item/1005003276146441.html
 19,16x1_Mux_board_CD74HC4067,P17,1,Mux breakout board. Like this:,https://de.aliexpress.com/item/1005006761196261.html
 20,POWER,P18,1,Eurorack power header,
 21,10k,R1-R16,16,,
