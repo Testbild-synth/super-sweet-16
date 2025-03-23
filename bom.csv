@@ -2,7 +2,7 @@
 1,10u,C1,1,Electrolytic capacitor Through hole,
 2,100n,"C2,C3",2,Electrolytic capacitor Through hole,
 3,BAT43,D1-D32,32,Schottky diode Through hole,
-4,Thonkiconn jack,"J1-J3, J5-J13",12,thonkiconn jack. Either spend tons of money or just go to aliexpress,"https://de.aliexpress.com/item/1005004890166167.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.3.1b78uFzOuFzONm&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=82122f5d-3e49-4a68-889b-4a7eb32134ea&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:82122f5d-3e49-4a68-889b-4a7eb32134ea,tpp_buckets:668%232846%238110%231995&pdp_npi=4%40dis%21EUR%2119.19%2119.19%21%21%2119.35%2119.35%21%40211b807017386930169593026e2fda%2112000030907522034%21rec%21DE%21699027728%21X&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A"
+4,Thonkiconn jack,"J1-J3, J5-J13",12,thonkiconn jack. Either spend tons of money or just go to aliexpress,"https://de.aliexpress.com/item/1005004890166167.html"
 7,MCP4728,J4,1,MCP4728 module. Link: ,https://de.aliexpress.com/item/1005007635284632.html
 17,LED,LED1-LED20,20,Any 3mm through hole led will do.,
 18,10-100k,"P1-P16,SCALE,SEQ,SLIDE_AMT",19,RV09 potentiometer B10k/B50k/B100k (whichever you prefer). I use these:,https://de.aliexpress.com/item/1005003276146441.html
